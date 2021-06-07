@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stevomakenzi
+- 👋 Hi, I’m @StephenMakenziWaweru
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning website development both frontend and backend.
 - 💞️ I’m looking to collaborate on any application development projects to build my experience and start a career in IT.

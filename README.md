@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Stephen Makenzi
+- 👋 Hi, I’m Stephen Makenzi Waweru
 - 👀 I’m interested in all things IT
 - 🌱 I’m currently completing a degree in Software Engineering at ALX through Holberton School Curriculum.
-- 💞️ I’m looking to collaborate on any application development projects to build my experience and start a career in IT.
+- Junior Developer at Machini Technologies Ltd. 
+- 💞️ I’m looking to collaborate on any django application development projects.
 - 📫 How to reach me: via email at stevomakenzi@gmail.com
 
 <!---

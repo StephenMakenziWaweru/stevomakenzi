@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stephen Makenzi Waweru
 - 👀 I’m interested in all things IT and Software
-- FullStack Developer at Fintech Group. 
-- Am good at: C#(Web & Desktop [.NET]), Python(Django, Flask, FastAPI), Javascript(Express), and C.
+- Backend Engineer at DataIntegrated. 
+- Am good at: C#(Web & Desktop [.NETCORE]), Python(Django, Flask, FastAPI) & Javascript(NodeJS, ExpressJS, ReactJS).
 - 📫 How to reach me: via email at stevomakenzi@gmail.com
 
 <!---
